@@ -250,3 +250,5 @@
 	<integer>1</integer>
 </dict>
 </plist>
+      <key>AllowBackgroundAppRefresh</key>
+      <false/>
