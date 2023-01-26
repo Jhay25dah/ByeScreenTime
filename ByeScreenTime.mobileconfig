@@ -37,7 +37,7 @@
 			<key>allowAirPrintiBeaconDiscovery</key>
 			<false/>
 			<key>allowAppCellularDataModification</key>
-			<false/>
+			<true/>
 			<key>allowAppInstallation</key>
 			<false/>
 			<key>allowAppRemoval</key>
@@ -99,7 +99,7 @@
 			<key>allowFindMyDevice</key>
 			<true/>
 			<key>allowFindMyFriends</key>
-			<true/>
+			</>
 			<key>allowFingerprintForUnlock</key>
 			<true/>
 			<key>allowFingerprintModification</key>
@@ -109,15 +109,15 @@
 			<key>allowGlobalBackgroundFetchWhenRoaming</key>
 			<false/>
 			<key>allowInAppPurchases</key>
-			<true/>
+			<false/>
 			<key>allowKeyboardShortcuts</key>
 			<true/>
 			<key>allowManagedAppsCloudSync</key>
 			<false/>
 			<key>allowMultiplayerGaming</key>
-			<true/>
+			<false/>
 			<key>allowMusicService</key>
-			<true/>
+			<false/>
 			<key>allowNews</key>
 			<true/>
 			<key>allowNotificationsModification</key>
