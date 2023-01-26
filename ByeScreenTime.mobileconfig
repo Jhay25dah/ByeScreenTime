@@ -25,37 +25,37 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowActivityContinuation</key>
-			<true/>
+			<false/>
 			<key>allowAddingGameCenterFriends</key>
-			<true/>
+			<false/>
 			<key>allowAirPlayIncomingRequests</key>
-			<true/>
+			<false/>
 			<key>allowAirPrint</key>
-			<true/>
+			<false/>
 			<key>allowAirPrintCredentialsStorage</key>
-			<true/>
+			<false/>
 			<key>allowAirPrintiBeaconDiscovery</key>
-			<true/>
+			<false/>
 			<key>allowAppCellularDataModification</key>
-			<true/>
+			<false/>
 			<key>allowAppInstallation</key>
-			<true/>
+			<false/>
 			<key>allowAppRemoval</key>
 			<true/>
 			<key>allowAssistant</key>
-			<true/>
+			<false/>
 			<key>allowAssistantWhileLocked</key>
-			<true/>
+			<false/>
 			<key>allowAutoCorrection</key>
-			<true/>
+			<false/>
 			<key>allowAutomaticAppDownloads</key>
-			<true/>
+			<false/>
 			<key>allowBluetoothModification</key>
 			<true/>
 			<key>allowBookstore</key>
-			<true/>
+			<false/>
 			<key>allowBookstoreErotica</key>
-			<true/>
+			<false/>
 			<key>allowCamera</key>
 			<true/>
 			<key>allowCellularPlanModification</key>
@@ -63,21 +63,21 @@
 			<key>allowChat</key>
 			<true/>
 			<key>allowCloudBackup</key>
-			<true/>
+			<false/>
 			<key>allowCloudDocumentSync</key>
-			<true/>
+			<false/>
 			<key>allowCloudPhotoLibrary</key>
-			<true/>
+			<false/>
 			<key>allowContinuousPathKeyboard</key>
 			<true/>
 			<key>allowDefinitionLookup</key>
-			<true/>
+			<false/>
 			<key>allowDeviceNameModification</key>
 			<true/>
 			<key>allowDeviceSleep</key>
 			<true/>
 			<key>allowDictation</key>
-			<true/>
+			<false/>
 			<key>allowESIMModification</key>
 			<true/>
 			<key>allowEnablingRestrictions</key>
@@ -85,13 +85,13 @@
 			<key>allowEnterpriseAppTrust</key>
 			<true/>
 			<key>allowEnterpriseBookBackup</key>
-			<true/>
+			<false/>
 			<key>allowEnterpriseBookMetadataSync</key>
 			<true/>
 			<key>allowEraseContentAndSettings</key>
 			<true/>
 			<key>allowExplicitContent</key>
-			<true/>
+			<false/>
 			<key>allowFilesNetworkDriveAccess</key>
 			<true/>
 			<key>allowFilesUSBDriveAccess</key>
@@ -105,15 +105,15 @@
 			<key>allowFingerprintModification</key>
 			<true/>
 			<key>allowGameCenter</key>
-			<true/>
+			<false/>
 			<key>allowGlobalBackgroundFetchWhenRoaming</key>
-			<true/>
+			<false/>
 			<key>allowInAppPurchases</key>
 			<true/>
 			<key>allowKeyboardShortcuts</key>
 			<true/>
 			<key>allowManagedAppsCloudSync</key>
-			<true/>
+			<false/>
 			<key>allowMultiplayerGaming</key>
 			<true/>
 			<key>allowMusicService</key>
@@ -127,7 +127,7 @@
 			<key>allowOpenFromUnmanagedToManaged</key>
 			<true/>
 			<key>allowPairedWatch</key>
-			<true/>
+			<false/>
 			<key>allowPassbookWhileLocked</key>
 			<true/>
 			<key>allowPasscodeModification</key>
@@ -147,11 +147,11 @@
 			<key>allowProximitySetupToNewDevice</key>
 			<true/>
 			<key>allowRadioService</key>
-			<true/>
+			<false/>
 			<key>allowRemoteAppPairing</key>
-			<true/>
+			<false/>
 			<key>allowRemoteScreenObservation</key>
-			<true/>
+			<false/>
 			<key>allowSafari</key>
 			<true/>
 			<key>allowScreenShot</key>
@@ -161,7 +161,7 @@
 			<key>allowSpellCheck</key>
 			<true/>
 			<key>allowSpotlightInternetResults</key>
-			<true/>
+			<false/>
 			<key>allowSystemAppRemoval</key>
 			<true/>
 			<key>allowUIAppInstallation</key>
@@ -181,7 +181,7 @@
 			<key>allowWallpaperModification</key>
 			<true/>
 			<key>allowiTunes</key>
-			<true/>
+			<false/>
 			<key>forceAirDropUnmanaged</key>
 			<false/>
 			<key>forceAirPrintTrustedTLSRequirement</key>
@@ -223,7 +223,7 @@
 			<key>safariAcceptCookies</key>
 			<integer>2</integer>
 			<key>safariAllowAutoFill</key>
-			<true/>
+			<false/>
 			<key>safariAllowJavaScript</key>
 			<true/>
 			<key>safariAllowPopups</key>
