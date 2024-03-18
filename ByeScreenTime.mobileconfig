@@ -5,7 +5,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>REQUIRES supervised mode in order for this profile to work.</string>
+		
 	</dict>
 	<key>PayloadContent</key>
 	<array>
