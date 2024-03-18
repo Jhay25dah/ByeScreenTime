@@ -152,7 +152,7 @@
 			<key>allowRemoteScreenObservation</key>
 			<false/>
 			<key>allowSafari</key>
-			<true/>
+			<false/>
 			<key>allowScreenShot</key>
 			<true/>
 			<key>allowSharedStream</key>
