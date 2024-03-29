@@ -1,252 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>ConsentText</key>
-	<dict>
-		<key>default</key>
-	</dict>
-	<key>DurationUntilRemoval</key>
-<integer>604800</integer>
-	<key>PayloadContent</key>
-	<array>
-		<dict>
-			<key>PayloadDescription</key>
-			<string>Configures restrictions</string>
-			<key>PayloadDisplayName</key>
-			<string>Restrictions</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.applicationaccess.35E2E2FF-EBDA-49FA-AD0B-0CEBCC21E287</string>
-			<key>PayloadType</key>
-			<string>com.apple.applicationaccess</string>
-			<key>PayloadUUID</key>
-			<string>35E2E2FF-EBDA-49FA-AD0B-0CEBCC21E287</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>allowActivityContinuation</key>
-			<false/>
-			<key>allowAddingGameCenterFriends</key>
-			<false/>
-			<key>allowAirPlayIncomingRequests</key>
-			<false/>
-			<key>allowAirPrint</key>
-			<false/>
-			<key>allowAirPrintCredentialsStorage</key>
-			<false/>
-			<key>allowAirPrintiBeaconDiscovery</key>
-			<false/>
-			<key>allowAppCellularDataModification</key>
-			<true/>
-			<key>allowAppInstallation</key>
-			<false/>
-			<key>allowAppRemoval</key>
-			<true/>
-			<key>allowAssistant</key>
-			<false/>
-			<key>allowAssistantWhileLocked</key>
-			<false/>
-			<key>allowAutoCorrection</key>
-			<false/>
-			<key>allowAutomaticAppDownloads</key>
-			<false/>
-			<key>allowBluetoothModification</key>
-			<true/>
-			<key>allowBookstore</key>
-			<false/>
-			<key>allowBookstoreErotica</key>
-			<false/>
-			<key>allowCamera</key>
-			<true/>
-			<key>allowCellularPlanModification</key>
-			<true/>
-			<key>allowChat</key>
-			<true/>
-			<key>allowCloudBackup</key>
-			<false/>
-			<key>allowCloudDocumentSync</key>
-			<false/>
-			<key>allowCloudPhotoLibrary</key>
-			<false/>
-			<key>allowContinuousPathKeyboard</key>
-			<true/>
-			<key>allowDefinitionLookup</key>
-			<false/>
-			<key>allowDeviceNameModification</key>
-			<true/>
-			<key>allowDeviceSleep</key>
-			<true/>
-			<key>allowDictation</key>
-			<false/>
-			<key>allowESIMModification</key>
-			<true/>
-			<key>allowEnablingRestrictions</key>
-			<false/>
-			<key>allowEnterpriseAppTrust</key>
-			<true/>
-			<key>allowEnterpriseBookBackup</key>
-			<false/>
-			<key>allowEnterpriseBookMetadataSync</key>
-			<true/>
-			<key>allowEraseContentAndSettings</key>
-			<true/>
-			<key>allowExplicitContent</key>
-			<false/>
-			<key>allowFilesNetworkDriveAccess</key>
-			<true/>
-			<key>allowFilesUSBDriveAccess</key>
-			<true/>
-			<key>allowFindMyDevice</key>
-			<true/>
-			<key>allowFindMyFriends</key>
-			</>
-			<key>allowFingerprintForUnlock</key>
-			<true/>
-			<key>allowFingerprintModification</key>
-			<true/>
-			<key>allowGameCenter</key>
-			<false/>
-			<key>allowGlobalBackgroundFetchWhenRoaming</key>
-			<false/>
-			<key>allowInAppPurchases</key>
-			<false/>
-			<key>allowKeyboardShortcuts</key>
-			<true/>
-			<key>allowManagedAppsCloudSync</key>
-			<false/>
-			<key>allowMultiplayerGaming</key>
-			<false/>
-			<key>allowMusicService</key>
-			<false/>
-			<key>allowNews</key>
-			<true/>
-			<key>allowNotificationsModification</key>
-			<true/>
-			<key>allowOpenFromManagedToUnmanaged</key>
-			<true/>
-			<key>allowOpenFromUnmanagedToManaged</key>
-			<true/>
-			<key>allowPairedWatch</key>
-			<false/>
-			<key>allowPassbookWhileLocked</key>
-			<true/>
-			<key>allowPasscodeModification</key>
-			<true/>
-			<key>allowPasswordAutoFill</key>
-			<true/>
-			<key>allowPasswordProximityRequests</key>
-			<true/>
-			<key>allowPasswordSharing</key>
-			<true/>
-			<key>allowPersonalHotspotModification</key>
-			<true/>
-			<key>allowPhotoStream</key>
-			<true/>
-			<key>allowPredictiveKeyboard</key>
-			<true/>
-			<key>allowProximitySetupToNewDevice</key>
-			<true/>
-			<key>allowRadioService</key>
-			<false/>
-			<key>allowRemoteAppPairing</key>
-			<false/>
-			<key>allowRemoteScreenObservation</key>
-			<false/>
-			<key>allowSafari</key>
-			<false/>
-			<key>allowScreenShot</key>
-			<true/>
-			<key>allowSharedStream</key>
-			<true/>
-			<key>allowSpellCheck</key>
-			<true/>
-			<key>allowSpotlightInternetResults</key>
-			<false/>
-			<key>allowSystemAppRemoval</key>
-			<true/>
-			<key>allowUIAppInstallation</key>
-			<true/>
-			<key>allowUIConfigurationProfileInstallation</key>
-			<true/>
-			<key>allowUSBRestrictedMode</key>
-			<true/>
-			<key>allowUntrustedTLSPrompt</key>
-			<true/>
-			<key>allowVPNCreation</key>
-			<true/>
-			<key>allowVideoConferencing</key>
-			<true/>
-			<key>allowVoiceDialing</key>
-			<true/>
-			<key>allowWallpaperModification</key>
-			<true/>
-			<key>allowiTunes</key>
-			<false/>
-			<key>forceAirDropUnmanaged</key>
-			<false/>
-			<key>forceAirPrintTrustedTLSRequirement</key>
-			<false/>
-			<key>forceAssistantProfanityFilter</key>
-			<false/>
-			<key>forceAuthenticationBeforeAutoFill</key>
-			<false/>
-			<key>forceAutomaticDateAndTime</key>
-			<false/>
-			<key>forceClassroomAutomaticallyJoinClasses</key>
-			<false/>
-			<key>forceClassroomRequestPermissionToLeaveClasses</key>
-			<false/>
-			<key>forceClassroomUnpromptedAppAndDeviceLock</key>
-			<false/>
-			<key>forceClassroomUnpromptedScreenObservation</key>
-			<false/>
-			<key>forceDelayedSoftwareUpdates</key>
-			<false/>
-			<key>forceEncryptedBackup</key>
-			<false/>
-			<key>forceITunesStorePasswordEntry</key>
-			<false/>
-			<key>forceWatchWristDetection</key>
-			<false/>
-			<key>forceWiFiPowerOn</key>
-			<false/>
-			<key>forceWiFiWhitelisting</key>
-			<false/>
-			<key>ratingApps</key>
-			<integer>1000</integer>
-			<key>ratingMovies</key>
-			<integer>1000</integer>
-			<key>ratingRegion</key>
-			<string>ca</string>
-			<key>ratingTVShows</key>
-			<integer>1000</integer>
-			<key>safariAcceptCookies</key>
-			<integer>2</integer>
-			<key>safariAllowAutoFill</key>
-			<false/>
-			<key>safariAllowJavaScript</key>
-			<true/>
-			<key>safariAllowPopups</key>
-			<true/>
-			<key>safariForceFraudWarning</key>
-			<false/>
-		</dict>
-	</array>
-	<key>PayloadDescription</key>
-	<string>Profile will auto remove after 20 seconds. This profile disables ScreenTime on iOS 12-17 (14 untested) on supervised devices.</string>
-	<key>PayloadDisplayName</key>
-	<string>ByeScreenTimeiOS</string>
-	<key>PayloadIdentifier</key>
-	<string>com.appleenterprise.ByeScreenTimeiOS</string>
-	<key>PayloadOrganization</key>
-	<string>@JustANobody2107</string>
-	<key>PayloadRemovalDisallowed</key>
-	<false/>
-	<key>PayloadType</key>
-	<string>Configuration</string>
-	<key>PayloadUUID</key>
-	<string>C717143D-66D9-488D-A71E-8A145C5B11FB</string>
-	<key>PayloadVersion</key>
-	<integer>1</integer>
-</dict>
-</plist>
-      
+mobileconfig.getSignedConfig([
+    PayloadType: 'Configuration',
+    PayloadVersion: 1,
+    PayloadIdentifier: 'com.my.company',
+    PayloadUUID: uuid.v4(),
+    PayloadDisplayName: 'My Gmail Account',
+    PayloadDescription: 'Install this profile to auto configure your email account',
+    PayloadOrganization: 'My Company',
+
+    PayloadContent: {
+        PayloadType: 'com.apple.mail.managed',
+        PayloadVersion: 1,
+        PayloadIdentifier: 'com.my.company',
+        PayloadUUID: uuid.v4(),
+        PayloadDisplayName: 'IMAP Config',
+        PayloadDescription: 'Configures email account',
+        PayloadOrganization: 'My Company',
+
+        EmailAccountDescription: 'Configure your email account',
+        EmailAccountName: 'John Smith',
+        EmailAccountType: 'EmailTypeIMAP',
+        EmailAddress: 'my-email-address@gmail.com',
+        IncomingMailServerAuthentication: 'EmailAuthPassword',
+        IncomingMailServerHostName: 'imap.gmail.com',
+        IncomingMailServerPortNumber: 993,
+        IncomingMailServerUseSSL: true,
+        IncomingMailServerUsername: 'my-email-address@gmail.com',
+        IncomingPassword: 'verysecret',
+        OutgoingPasswordSameAsIncomingPassword: true,
+        OutgoingMailServerAuthentication: 'EmailAuthPassword',
+        OutgoingMailServerHostName: 'smtp.gmail.com',
+        OutgoingMailServerPortNumber: 587,
+        OutgoingMailServerUseSSL: false,
+        OutgoingMailServerUsername: 'my-email-address@gmail.com',
+        PreventMove: false,
+        PreventAppSheet: false,
+        SMIMEEnabled: false,
+        allowMailDrop: true
+    }
+], {
+    key: '-----BEGIN PRIVATE KEY-----...',
+    cert: '-----BEGIN CERTIFICATE-----...'
+}, callback)
